@@ -9,7 +9,7 @@ CLC: 2026 Certified AI Email Security Specialist — a 3-session certification t
 | Session | Topic | Notes | PDF | Poster |
 |---|---|---|---|---|
 | 1 | The New Threat Landscape, Powered by AI & Social Engineering | [HTML](ai-email-security-specialist/session1-threat-briefing.html) | [PDF](ai-email-security-specialist/session1-threat-briefing.pdf) | [PNG](ai-email-security-specialist/session1-linkedin-poster.png) |
-| 2 | Blueprint for Email Security Platforms | Coming soon | Coming soon | Coming soon |
+| 2 | Blueprint for Email Security Platforms | [HTML](ai-email-security-specialist/session2-email-security-blueprint.html) | [PDF](ai-email-security-specialist/session2-email-security-blueprint.pdf) | [PNG](ai-email-security-specialist/session2-linkedin-poster.png) |
 | 3 | Human-Centric Detection, Response & Workflows | Coming soon | Coming soon | Coming soon |
 
 ## More courses
