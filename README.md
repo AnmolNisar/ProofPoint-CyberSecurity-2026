@@ -17,5 +17,4 @@ CLC: 2026 Certified AI Email Security Specialist — a 3-session certification t
 Additional Proofpoint Cybersecurity Academy tracks will be added here as they're completed.
 
 - Course 2 — coming soon
-- - Course 3 — coming soon
-  - 
+- Course 3 — coming soon
