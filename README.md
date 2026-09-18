@@ -19,6 +19,7 @@ CLC: 2026 Certified AI Data Security Specialist — a 3-session certification tr
 | Session | Topic | Notes | PDF | Poster |
 |---|---|---|---|---|
 | 1 | GenAI: Its Security Risks & Mitigation Approaches | [HTML](ai-data-security-specialist/session1-DataSecurity-briefing.html) | [PDF](ai-data-security-specialist/session1-DataSecurity-briefing.pdf) | [PNG](ai-data-security-specialist/session1-DataSecurity-poster.png) |
+
 Sessions 2 and 3 will be added here as they're completed.
 
 ## More courses
