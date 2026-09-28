@@ -6,6 +6,10 @@ Personal notes from Proofpoint Cybersecurity Academy: session-by-session briefin
 
 CLC: 2026 Certified AI Email Security Specialist — a 3-session certification track.
 
+<img src="ai-email-security-specialist/EmailSecurity-badge.png" alt="Certified AI Email Security Specialist 2026 badge" width="120">
+
+[View certificate (PDF)](ai-email-security-specialist/EmailSecurity-certificate.pdf)
+
 | Session | Topic | Notes | PDF | Poster |
 |---|---|---|---|---|
 | 1 | The New Threat Landscape, Powered by AI & Social Engineering | [HTML](ai-email-security-specialist/session1-threat-briefing.html) | [PDF](ai-email-security-specialist/session1-threat-briefing.pdf) | [PNG](ai-email-security-specialist/session1-linkedin-poster.png) |
@@ -16,6 +20,10 @@ CLC: 2026 Certified AI Email Security Specialist — a 3-session certification t
 
 CLC: 2026 Certified AI Data Security Specialist — a 3-session certification track.
 
+<img src="ai-data-security-specialist/DataSecurity-badge.png" alt="Certified AI Data Security Specialist 2026 badge" width="120">
+
+[View certificate (PDF)](ai-data-security-specialist/DataSecurity-certificate.pdf)
+
 | Session | Topic | Notes | PDF | Poster |
 |---|---|---|---|---|
 | 1 | GenAI: Its Security Risks & Mitigation Approaches | [HTML](ai-data-security-specialist/session1-DataSecurity-briefing.html) | [PDF](ai-data-security-specialist/session1-DataSecurity-briefing.pdf) | [PNG](ai-data-security-specialist/session1-DataSecurity-poster.png) |
@@ -25,6 +33,10 @@ CLC: 2026 Certified AI Data Security Specialist — a 3-session certification tr
 ## AI Agent Security Specialist
 
 CLC: 2026 Certified AI Agent Security Specialist — in progress; sessions are added as they're completed.
+
+<img src="ai-agent-security-specialist/AgentSecurity-badge.png" alt="Certified AI Agent Security Specialist 2026 badge" width="120">
+
+[View certificate (PDF)](ai-agent-security-specialist/AgentSecurity-certificate.pdf)
 
 | Session | Topic | Notes | PDF | Poster |
 |---|---|---|---|---|
