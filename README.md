@@ -22,8 +22,14 @@ CLC: 2026 Certified AI Data Security Specialist — a 3-session certification tr
 | 2 | Reducing Data Risk in Everyday GenAI Use | [HTML](ai-data-security-specialist/session2-DataSecurity-briefing.html) | [PDF](ai-data-security-specialist/session2-DataSecurity-briefing.pdf) | [PNG](ai-data-security-specialist/session2-DataSecurity-poster.png) |
 | 3 | Securing Sensitive Data in GenAI Development | [HTML](ai-data-security-specialist/session3-DataSecurity-briefing.html) | [PDF](ai-data-security-specialist/session3-DataSecurity-briefing.pdf) | [PNG](ai-data-security-specialist/session3-DataSecurity-poster.png) |
 
+## AI Agent Security Specialist
+
+CLC: 2026 Certified AI Agent Security Specialist — in progress; sessions are added as they're completed.
+
+| Session | Topic | Notes | PDF | Poster |
+|---|---|---|---|---|
+| 1 | The Agentic Workspace: Transformative Capabilities, Serious New Risks | [HTML](ai-agent-security-specialist/session1-AgentSecurity-briefing.html) | [PDF](ai-agent-security-specialist/session1-AgentSecurity-briefing.pdf) | [PNG](ai-agent-security-specialist/session1-AgentSecurity-poster.png) |
+
 ## More courses
 
 Additional Proofpoint Cybersecurity Academy tracks will be added here as they're completed.
-
-- Course 3 — coming soon
