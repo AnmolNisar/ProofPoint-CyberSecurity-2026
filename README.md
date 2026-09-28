@@ -29,7 +29,3 @@ CLC: 2026 Certified AI Agent Security Specialist — in progress; sessions are a
 | Session | Topic | Notes | PDF | Poster |
 |---|---|---|---|---|
 | 1 | The Agentic Workspace: Transformative Capabilities, Serious New Risks | [HTML](ai-agent-security-specialist/session1-AgentSecurity-briefing.html) | [PDF](ai-agent-security-specialist/session1-AgentSecurity-briefing.pdf) | [PNG](ai-agent-security-specialist/session1-AgentSecurity-poster.png) |
-
-## More courses
-
-Additional Proofpoint Cybersecurity Academy tracks will be added here as they're completed.
