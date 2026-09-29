@@ -32,7 +32,7 @@ CLC: 2026 Certified AI Data Security Specialist — a 3-session certification tr
 
 ## AI Agent Security Specialist
 
-CLC: 2026 Certified AI Agent Security Specialist — in progress; sessions are added as they're completed.
+CLC: 2026 Certified AI Agent Security Specialist — a 3-session certification track.
 
 <img src="ai-agent-security-specialist/AgentSecurity-badge.png" alt="Certified AI Agent Security Specialist 2026 badge" width="120">
 
@@ -41,3 +41,5 @@ CLC: 2026 Certified AI Agent Security Specialist — in progress; sessions are a
 | Session | Topic | Notes | PDF | Poster |
 |---|---|---|---|---|
 | 1 | The Agentic Workspace: Transformative Capabilities, Serious New Risks | [HTML](ai-agent-security-specialist/session1-AgentSecurity-briefing.html) | [PDF](ai-agent-security-specialist/session1-AgentSecurity-briefing.pdf) | [PNG](ai-agent-security-specialist/session1-AgentSecurity-poster.png) |
+| 2 | The Agentic Workspace: Visibility and Posture | [HTML](ai-agent-security-specialist/session2-AgentSecurity-briefing.html) | [PDF](ai-agent-security-specialist/session2-AgentSecurity-briefing.pdf) | [PNG](ai-agent-security-specialist/session2-AgentSecurity-poster.png) |
+| 3 | The Agentic Workspace: Runtime Security | [HTML](ai-agent-security-specialist/session3-AgentSecurity-briefing.html) | [PDF](ai-agent-security-specialist/session3-AgentSecurity-briefing.pdf) | [PNG](ai-agent-security-specialist/session3-AgentSecurity-poster.png) |
